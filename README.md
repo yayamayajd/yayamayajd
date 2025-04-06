@@ -10,7 +10,7 @@ I tend to learn fast — but more importantly, I test what I learn. I like to ta
 
 
 
-- 🌱 I’m currently exploring **DevOos** and **automation**.
+- 🌱 I’m currently exploring **DevOps** and **automation**.
 - 🤝 I’m looking to collaborate on **open-source projects**.
 - 💬 Ask me about **Python**, **CI/CD**, and **Kubernetes**.
 - 📫 How to reach me: [yayamayajd@gmail.com]
