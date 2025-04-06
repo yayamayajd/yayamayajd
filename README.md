@@ -38,6 +38,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jiadai-sh
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/ansible-original.svg" alt="ansible" width="30" height="30"/>
 </p>
 
 
