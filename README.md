@@ -39,6 +39,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jiadai-sh
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ansible/ansible-original.svg" alt="ansible" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="30" height="30"/>
 </p>
 
 
