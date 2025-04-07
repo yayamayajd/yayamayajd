@@ -26,6 +26,8 @@ Here are some of my latest projects:
 
 - 📝 [My fruit project](https://github.com/yayamayajd/fruits_project) - A small fullstack project with the whole DevOps process
 
+- 📝 [IAC project](https://github.com/yayamayajd/opentofu_ansible) - my own version of school project: use Opentofu(Terraform) and Ansible to configure EC2 instances, VPC, ALB, subnets, IGW, NatGW, and install/configure flask app(offered) and PostgresDB on AWS ec2s
+
 ## 📫 Connect with Me
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jiadai-shen-a80b211b5/)
