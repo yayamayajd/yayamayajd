@@ -22,7 +22,7 @@ I also worked on automating AWS infrastructure using OpenTofu and Ansible — de
 My background in writing and storytelling helps me think in structure, connect details with purpose, and communicate clearly — whether it’s code, config, or documentation.
 
 
-I also enjoy sharing my knowledge through writing and blogging. Here are some of my latest posts:
+Here are some of my latest projects:
 
 - 📝 [My fruit project](https://github.com/yayamayajd/fruits_project) - A small fullstack project with the whole DevOps process
 
