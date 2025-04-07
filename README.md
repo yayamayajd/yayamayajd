@@ -24,9 +24,9 @@ My background in writing and storytelling helps me think in structure, connect d
 
 Here are some of my latest projects:
 
-- 📝 [My fruit project](https://github.com/yayamayajd/fruits_project) - A small fullstack project with the whole DevOps process
+- 📝 [My fruit project](https://github.com/yayamayajd/fruits_project) - **A small fullstack project with the whole DevOps(self-hosted) process**
 
-- 📝 [IAC project](https://github.com/yayamayajd/opentofu_ansible) - my own version of school project: use Opentofu(Terraform) and Ansible to configure EC2 instances, VPC, ALB, subnets, IGW, NatGW, and install/configure flask app(offered) and PostgresDB on AWS ec2s
+- 📝 [IAC project](https://github.com/yayamayajd/opentofu_ansible) - **My own version of school project:** use Opentofu(Terraform) and Ansible to configure EC2 instances, VPC, ALB, subnets, IGW, NatGW, and install/configure flask app(offered) and PostgresDB on AWS ec2s
 
 ## 📫 Connect with Me
 
