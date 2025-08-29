@@ -17,13 +17,17 @@ I tend to learn fast — but more importantly, I test what I learn. I like to ta
 - ⚡ Fun fact: I am good at eat suuuper spicy food!
 
 ## 🔹 What I’ve been working on
-I started developing a fruit management system with Flask and PostgreSQL to explore CI/CD pipelines (GitHub Actions) and Kubernetes deployment (K3s).
-I also worked on automating AWS infrastructure using OpenTofu and Ansible — defining EC2 instances as code and writing playbooks to configure the environment from scratch.
+
+Building my own homelab with the whole DevOps ecosystem
+Developing and keep iterating a fruit management system with Flask and PostgreSQL to explore CI/CD pipelines (GitHub Actions) and Kubernetes deployment (K3s).
+Also worked on automating AWS infrastructure using OpenTofu and Ansible — defining EC2 instances as code and writing playbooks to configure the environment from scratch.
 My background in writing and storytelling helps me think in structure, connect details with purpose, and communicate clearly — whether it’s code, config, or documentation.
 
 
 Here are some of my latest projects:
 
+- 📝 [My homelab project](https://github.com/yayamayajd/homelab) - **Started my homelab project with a DevOps approach for daily usage and experiments (Kubernetes cluster, monitoring stack, self-hosted pipelines, GitOps, networking, my own apps, hardware, servers).**
+  
 - 📝 [My fruit project](https://github.com/yayamayajd/fruits_project) - **A small fullstack project with the whole DevOps(self-hosted) process**
 
 - 📝 [IAC project](https://github.com/yayamayajd/opentofu_ansible) - **My own version of school project:** use Opentofu(Terraform) and Ansible to configure EC2 instances, VPC, ALB, subnets, IGW, NatGW, and install/configure flask app(offered) and PostgresDB on AWS
