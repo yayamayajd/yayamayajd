@@ -18,9 +18,12 @@ I tend to learn fast — but more importantly, I test what I learn. I like to ta
 
 ## 🔹 What I’ve been working on
 
-Building my own homelab with the whole DevOps ecosystem
+Building my own homelab with the whole DevOps ecosystem.
+
 Developing and keep iterating a fruit management system with Flask and PostgreSQL to explore CI/CD pipelines (GitHub Actions) and Kubernetes deployment (K3s).
+
 Also worked on automating AWS infrastructure using OpenTofu and Ansible — defining EC2 instances as code and writing playbooks to configure the environment from scratch.
+
 My background in writing and storytelling helps me think in structure, connect details with purpose, and communicate clearly — whether it’s code, config, or documentation.
 
 
